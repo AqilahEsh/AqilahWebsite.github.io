@@ -1,7 +1,3 @@
-# AqilahWebsite
-First website
-<!DOCTYPEhtml>
-<html lang="en">
 
 <html>
  <head>
