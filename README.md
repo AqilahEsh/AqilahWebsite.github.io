@@ -44,6 +44,7 @@
  		<p>Computer Design</p>
  		<p>3D printing</p>
  		<p>Laser cutting</p>
+		<p>Arduino Programming</p>
  	</div>
 
  	<div id="footer">
